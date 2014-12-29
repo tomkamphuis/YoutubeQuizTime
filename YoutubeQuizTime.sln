@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeQuizTime.Web", "YoutubeQuizTime.Web\YoutubeQuizTime.Web.csproj", "{957435F2-A512-4391-B122-D95D168A41AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeQuizTime.Web.Tests", "YoutubeQuizTime.Web.Tests\YoutubeQuizTime.Web.Tests.csproj", "{5727E614-5418-4938-A3DE-F82C699A8D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957435F2-A512-4391-B122-D95D168A41AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957435F2-A512-4391-B122-D95D168A41AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957435F2-A512-4391-B122-D95D168A41AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957435F2-A512-4391-B122-D95D168A41AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5727E614-5418-4938-A3DE-F82C699A8D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5727E614-5418-4938-A3DE-F82C699A8D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5727E614-5418-4938-A3DE-F82C699A8D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5727E614-5418-4938-A3DE-F82C699A8D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
